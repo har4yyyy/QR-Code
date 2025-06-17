@@ -1,3 +1,5 @@
+import 'download.py';
+
 const wrapper = document.querySelector('.wrapper');
 const generateButton = wrapper.querySelector('.form button');
 const qrInput = wrapper.querySelector('.form input');
